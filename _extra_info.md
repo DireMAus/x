@@ -1,1 +1,1 @@
-site_title: Dream Team Inc.
+site_title: Dream Team 
